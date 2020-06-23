@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://heyuhaha.github.io/"/>
-  <updated>2020-06-20T10:48:22.227Z</updated>
+  <updated>2020-06-23T07:21:18.891Z</updated>
   <id>http://heyuhaha.github.io/</id>
   
   <author>
@@ -17,13 +17,23 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>2020的一些感想</title>
+    <title>2020的一些计划和感想</title>
     <link href="http://heyuhaha.github.io/2020/06/20/2020%E7%9A%84%E4%B8%80%E4%BA%9B%E6%84%9F%E6%83%B3/"/>
     <id>http://heyuhaha.github.io/2020/06/20/2020%E7%9A%84%E4%B8%80%E4%BA%9B%E6%84%9F%E6%83%B3/</id>
     <published>2020-06-20T09:30:40.000Z</published>
-    <updated>2020-06-20T10:48:22.227Z</updated>
+    <updated>2020-06-23T07:21:18.891Z</updated>
+    
+    <content type="html"><![CDATA[<p>2020过去一大半了，希望下半年完成的一些书单：</p><ol><li>《java实战》：主要是想要了解java8,9,10的一些新特性,为我接下来要做的一个个人项目——DBFromZero,打好一些基础。</li><li>《深入分析JavaWeb技术内幕》：想对JavaWeb整个体系有一个清晰，逻辑性的认识。</li><li>《深入理解计算机系统》：读这本书算是比较晚了，也是想着为自己接下来的阅读计划打好基础，而且作为程序员，掌握好操作系统知识也是应该的。</li><li>《Designing Data-Intensive Applications》：这本书是知乎上一个大牛推荐的书，希望自己读的懂大概。</li><li>《A Philosophy of SoftWare Design》：同上</li></ol><p>可能还会读别的书，但以上这些书是我尤其想读的，我估计能读完上述的书籍也已经很好了，毕竟欲速则不达。ps:还计划每一到两个星期能读完一本“杂书”，“杂书”不用太厚，顶多两三百页的那种。相信积累的力量。</p><h2 id="一些感想"><a href="#一些感想" class="headerlink" title="一些感想"></a>一些感想</h2><p>上半年比较困难，因为上一年做出了考研的选择，最终是没有考上，因此上半年一直在准备重新找工作的事情。考研给我的教训就是，考研是要有强大的目标能动性和行动力的，如果自己本身没那么想考，那多半是考不上的。</p><p>最后记录一下开通个人博客的初心吧：我自己本身是抱着写给自己看的心愿搭建该博客的，借用《写出我心》的前言里的一句话：人人都有想把自己的故事讲给别人听的愿望——或者在碌碌人生中，对我们所思，所感，所见，所闻的一种记录与觉悟。我觉得我是更偏向后者吧，对所思所感所见做记录与觉悟。对我来说，这其实是挺矛盾的，因为在我所见的各个编程大牛（来自知乎，技术书籍等）好像都不会这样“多愁善感”。所以我总有一种感觉就是：做这样的事我以后能变大牛吗（笑哭脸）。不过也可能是我想多了，寡闻了，印象刻板了，或许我根本不用理会，我只是在做自己想做的事，我坚持做，它会带我到需要去的地方的。</p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;2020过去一大半了，希望下半年完成的一些书单：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;《java实战》：主要是想要了解java8,9,10的一些新特性,为我接下来要做的一个个人项目——DBFromZero,打好一些基础。&lt;/li&gt;
+&lt;li&gt;《深入分析JavaWeb技术内幕》：想对Ja
+      
     
     </summary>
     
